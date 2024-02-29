@@ -14,7 +14,7 @@ let inputValue = ``;
 let currentPage = 1;
 
 export const fetchResults = async (userInput, currentPage) => {
-  const apiKey = `39919801-cd3556a07d6c2157d605c68ff`;
+  const apiKey = `42633230-038735307d7a30593a43e4bc7git add`;
   const url = `https://pixabay.com/api/`;
   const options = {
     params: {
